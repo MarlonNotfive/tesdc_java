@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="362e04a6-1c92-47b9-8113-f4ce25ca9d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="362e04a6-1c92-47b9-8113-f4ce25ca9d22" name="Changes" comment="try update">
+      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Activity1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Activity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgram2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgram3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/JavaProgram3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +35,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="25782fc0-1349-4cae-a7e5-68c29e3488c6" />
+        <option name="url" value="git@github.com:MarlonNotfive/tesdc_java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664014098774</updated>
     </task>
+    <task id="LOCAL-00001" summary="try update">
+      <created>1664625412171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664625412171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try update" />
+    <option name="LAST_COMMIT_MESSAGE" value="try update" />
   </component>
 </project>
