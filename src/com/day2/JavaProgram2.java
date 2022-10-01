@@ -1,3 +1,5 @@
+package com.day2;
+
 public class JavaProgram2 {
     public static void main(String args[]){
         //arithmetic operators

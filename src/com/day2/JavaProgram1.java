@@ -1,3 +1,5 @@
+package com.day2;
+
 public class JavaProgram1 {
     public static void main(String args[]){
         String name = "marlon";

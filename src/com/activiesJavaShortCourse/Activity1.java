@@ -1,3 +1,5 @@
+package com.activiesJavaShortCourse;
+
 import java.util.Scanner;
 
 public class Activity1 {
