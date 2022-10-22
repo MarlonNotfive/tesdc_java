@@ -16,7 +16,7 @@ public class Activity8 {
         area = calculateArea(length, width);
 
         System.out.println("Perimeter is "+ String.format("%.2f",perimeter) +" meters");
-        System.out.println("Area is "+ String.format("%.2f",area) +" meters");
+        System.out.println("area is "+ String.format("%.2f",area) +" meters");
     }
 
     public static double calculatePerimeter(double l, double w){

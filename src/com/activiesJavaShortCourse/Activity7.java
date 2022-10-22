@@ -36,7 +36,7 @@ public class Activity7 {
         System.exit(0);
     }
 
-    public static String space(String name){    //para pantay yung spacing
+    public static String space(String name){    //Para pantay yung spacing
 
         String returnSpacing = "";
         int needSpace = 24;
