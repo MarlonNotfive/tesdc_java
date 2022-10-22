@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362e04a6-1c92-47b9-8113-f4ce25ca9d22" name="Changes" comment="try update">
-      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram5p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/JavaProgram9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day4/JavaProgram9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/activiesJavaShortCourse/Activity4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +50,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

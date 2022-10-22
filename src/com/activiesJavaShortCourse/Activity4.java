@@ -24,7 +24,6 @@ public class Activity4 {
         System.out.print("Enter grade in Programming: ");
         gThree = sc.nextDouble();
         System.out.println();
-
         ave = (gOne+gTwo+gThree) / 3;
 
         if ((ave<=100)&&(ave>=95)) {
@@ -55,5 +54,6 @@ public class Activity4 {
         } else {
             System.out.println("Invalid Grade");
         }
+
     }
 }
